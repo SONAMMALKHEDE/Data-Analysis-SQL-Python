@@ -1,5 +1,9 @@
 # SQL-Python
 
+![alt text](https://github.com/prashikpatil221/SQL-Python/blob/main/ERD%20(1).jpg)
+
+
+
 Table of Contents
 1. Library Import - 
 •	 Library Import
